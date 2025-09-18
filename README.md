@@ -55,7 +55,8 @@ Accuracy and visualization results are shown in the screenshots folder.
 
 🔹 Exploratory Data Analysis (EDA)
 
-🔹 Linear Regression Prediction
+🔹 ![EDA](screenshots/LSTM.png)
+
 
 🔹 LSTM Prediction
 
@@ -70,4 +71,4 @@ Create a user-friendly web interface.
 ✨ Author
 
 Developed by Hamza 👨‍💻
-BSCS Final Year Project
+
