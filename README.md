@@ -54,11 +54,22 @@ The project compares Linear Regression and LSTM models.
 Accuracy and visualization results are shown in the screenshots folder.
 
 🔹 Exploratory Data Analysis (EDA)
-
-🔹 ![EDA](screenshots/LSTM.png)
+![EDA](screenshots/.closeproce.png)
+![EDA](screenshots/.volume.png)
+![EDA](screenshots/close vs volume.png)
+![EDA](screenshots/close price 30days MA.png)
+![EDA](screenshots/heatmap.png)
+![EDA](screenshots/.histogrampng)
+![EDA](screenshots/.png)
+🔹 Linear Regression Prediction
+🔹 ![EDA](screenshots/linear regression.png)
 
 
 🔹 LSTM Prediction
+🔹 ![EDA](screenshots/LSTM.png)
+🔹 COMPARISON
+![EDA](screenshots/comparison.png)
+
 
 🔮 Future Improvements
 
