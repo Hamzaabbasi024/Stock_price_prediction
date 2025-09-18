@@ -59,7 +59,7 @@ Accuracy and visualization results are shown in the screenshots folder.
 ![EDA](screenshots/closevsvolume.png)
 
 ![EDA](screenshots/heatmap.png)
-![EDA](screenshots/.histogram.png)
+![EDA](screenshots/histogram.png)
 
 🔹 Linear Regression Prediction
 🔹 ![EDA](screenshots/linearregression.png)
